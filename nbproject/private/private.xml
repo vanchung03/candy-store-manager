@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Workplace/java/QLBANHANG/src/Model/HoaDon.java</file>
+            <file>file:/D:/Workplace/java/QLBANHANG/src/Controller/NhaCungCapData.java</file>
+            <file>file:/D:/Workplace/java/QLBANHANG/src/Interface/DataNhanVien_Interface.java</file>
+            <file>file:/D:/Workplace/java/QLBANHANG/src/Gui/ThongKeBaoCaoFrm.java</file>
+            <file>file:/D:/Workplace/java/QLBANHANG/src/Gui/BanHangFrm.java</file>
+            <file>file:/D:/Workplace/java/QLBANHANG/src/Interface/DataNguoiDung_Interface.java</file>
+            <file>file:/D:/Workplace/java/QLBANHANG/src/Interface/DataNhaCungCap_Interface.java</file>
+            <file>file:/D:/Workplace/java/QLBANHANG/src/Controller/ConnectDB.java</file>
+            <file>file:/D:/Workplace/java/QLBANHANG/src/Controller/NhanVienData.java</file>
+            <file>file:/D:/Workplace/java/QLBANHANG/src/Controller/HoaDonData.java</file>
+            <file>file:/D:/Workplace/java/QLBANHANG/src/Model/ChiTietHoaDon.java</file>
+            <file>file:/D:/Workplace/java/QLBANHANG/src/Gui/NhaCungCapFrm.java</file>
+            <file>file:/D:/Workplace/java/QLBANHANG/src/Controller/ChiTietHoaDonData.java</file>
+            <file>file:/D:/Workplace/java/QLBANHANG/src/Gui/LoginFrm.java</file>
+            <file>file:/D:/Workplace/java/QLBANHANG/src/Interface/DataHoaDon_Interface.java</file>
+            <file>file:/D:/Workplace/java/QLBANHANG/src/Interface/DataChiTietHoaDon_Interface.java</file>
+            <file>file:/D:/Workplace/java/QLBANHANG/src/Model/NguoiDung.java</file>
+            <file>file:/D:/Workplace/java/QLBANHANG/src/Model/SanPham.java</file>
+            <file>file:/D:/Workplace/java/QLBANHANG/src/Gui/ChiTietHoaDonFrm.java</file>
+            <file>file:/D:/Workplace/java/QLBANHANG/src/Interface/DataSanPham_Interface.java</file>
+            <file>file:/D:/Workplace/java/QLBANHANG/src/Controller/NguoiDungData.java</file>
+            <file>file:/D:/Workplace/java/QLBANHANG/src/Model/NhaCungCap.java</file>
+            <file>file:/D:/Workplace/java/QLBANHANG/src/Model/NhanVien.java</file>
+        </group>
+    </open-files>
+</project-private>
